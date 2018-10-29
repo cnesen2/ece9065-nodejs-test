@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cnesen2/ece9065-nodejs-test/issues"
   },
-  "homepage": "https://github.com/cnesen2/ece9065-nodejs-test#readme"
+  "homepage": "https://github.com/cnesen2/ece9065-nodejs-test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
